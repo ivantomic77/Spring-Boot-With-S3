@@ -1,5 +1,5 @@
 # Spring-Boot-With-S3
-This is a sample project to demonstrate how to connect to AWS S3 bucket from a Spring Boot application. The project is written in Java using Spring Boot framework and uses AWS SDK for Java to interact with S3.
+This is a sample project that demonstrates how to connect to an AWS S3 bucket from a Spring Boot application.
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ This is a sample project to demonstrate how to connect to AWS S3 bucket from a S
 
 Before running the Spring Boot application and testing it with Postman, please make sure to update variables in the *application.properties* file.
 
-Run this commmand to start the app:
+Run this command to start the app:
 ```
 ./gradlew bootRun
 ```
